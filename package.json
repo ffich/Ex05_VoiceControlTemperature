@@ -1,0 +1,12 @@
+{
+    "name": "Ex05_VoiceControlTemperature",
+    "description": "An example of temperature reading from Amazon Alexa. It uses a Jupiter Model A and a Temperature click.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
